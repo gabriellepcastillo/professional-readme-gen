@@ -1,30 +1,30 @@
 
-  # Project Title: l
-  ## Project Description: l
+  # Project Title: Professional Readme Generator 
+  ## Project Description: When creating an open source project on GitHub, it’s important to have a high-quality README for the app. This should include what the app is for, how to use the app, how to install it, how to report issues, and how to make contributions—this last part increases the likelihood that other developers will contribute to the success of the project.
   ## Table of Contents
-  - [Project License] (#projectLicense)
-  - [Installation Instructions] (#projectInstallationInstructions)
-  - [Usage Information] (#projectUsageInformation)
-  - [Contribution Guidelines] (#projectContributionGuidelines)
-  - [Test Instructions] (#projectTestInstructions)
+  - [Project License](#projectLicense)
+  - [Installation Instructions](#projectInstallationInstructions)
+  - [Usage Information](#projectUsageInformation)
+  - [Contribution Guidelines](#projectContributionGuidelines)
+  - [Test Instructions](#projectTestInstructions)
   - [Questions](#questions)
 
   ## Project License
-  [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Installation Instructions
-  l
+  none
 
   ## Usage Information
-  l
+  none 
 
   ## Contribution Guidelines
-  l
+  none 
 
   ## Test Instructions
-  l
+  none 
 
   ## Questions
-  Please contact me by email: l
-  GitHub username: [l] (http://github.com/l)
+  Please contact me by email: gabriellepcastillo@gmail.com
+  GitHub username: [gabriellepcastillo](http://github.com/gabriellepcastillo)
   

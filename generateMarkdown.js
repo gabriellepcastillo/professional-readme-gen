@@ -10,11 +10,11 @@ function generateMarkdown(userInput, projectLicense) {
   # Project Title: ${userInput.projectTitle}
   ## Project Description: ${userInput.projectDescription}
   ## Table of Contents
-  - [Project License] (#projectLicense)
-  - [Installation Instructions] (#projectInstallationInstructions)
-  - [Usage Information] (#projectUsageInformation)
-  - [Contribution Guidelines] (#projectContributionGuidelines)
-  - [Test Instructions] (#projectTestInstructions)
+  - [Project License](#projectLicense)
+  - [Installation Instructions](#projectInstallationInstructions)
+  - [Usage Information](#projectUsageInformation)
+  - [Contribution Guidelines](#projectContributionGuidelines)
+  - [Test Instructions](#projectTestInstructions)
   - [Questions](#questions)
 
   ## Project License
@@ -34,7 +34,7 @@ function generateMarkdown(userInput, projectLicense) {
 
   ## Questions
   Please contact me by email: ${userInput.email}
-  GitHub username: [${userInput.githubUsername}] (http://github.com/${userInput.githubUsername})
+  GitHub username: [${userInput.githubUsername}](http://github.com/${userInput.githubUsername})
   `;
 }
 
